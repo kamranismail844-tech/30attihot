@@ -1,0 +1,19 @@
+{
+  "name": "3Patti Hot Download Guide",
+  "short_name": "3Patti Hot",
+  "description": "Independent one-tap 3Patti Hot APK download guide with referral code 10231669.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#140806",
+  "theme_color": "#160907",
+  "lang": "en-PK",
+  "icons": [
+    {
+      "src": "/images/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

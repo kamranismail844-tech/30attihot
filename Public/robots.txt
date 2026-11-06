@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Independent 3Patti Hot APK download guide
+# Sitemap
+Sitemap: https://kanik.shop/sitemap.xml

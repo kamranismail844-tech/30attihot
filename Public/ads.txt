@@ -1,0 +1,12 @@
+# ads.txt for kanik.shop
+# ---------------------------------------------------------------------------
+# Adsterra dashboard -> Sites -> apni site -> "ads.txt" ka poora block copy
+# karke neeche paste karein (placeholder line delete kar dein).
+#
+# Example format:
+# adsterra.com, pub-0000000000000000, DIRECT
+# adsterra.com, pub-0000000000000000, RESELLER
+# ---------------------------------------------------------------------------
+
+# PASTE YOUR ADSTERRA ads.txt LINES BELOW THIS LINE
+
